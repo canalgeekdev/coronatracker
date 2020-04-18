@@ -1,6 +1,8 @@
 # coronatracker
 A very intuitive and fast React Native app to query for Corona virus thru the world
 
+![Corona Tracker App](coronatracker.png)
+
 Corona Tracker is a React Native mobile app.
 
   - View number of infected 
