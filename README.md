@@ -19,4 +19,4 @@ Corona Tracker is a React Native mobile app.
 | API | URL |
 | ------ | ------ |
 | API Global | [https://covid19.mathdro.id/api] |
-| API Countty| [https://covid19.mathdro.id/api/countries/brazil] |
+| Specificy Country| [https://covid19.mathdro.id/api/countries/brazil] |
