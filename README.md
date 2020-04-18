@@ -1,4 +1,4 @@
-# coronatracker
+# Corona Tracker App by Canal Geek Dev
 A very intuitive and fast React Native app to query for Corona virus thru the world
 
 ![Corona Tracker App](coronatracker.png)
@@ -12,3 +12,11 @@ Corona Tracker is a React Native mobile app.
 # Comming soon!
 
   - Select a specific country and then check its metrics.
+
+
+### API used on this project
+
+| API | URL |
+| ------ | ------ |
+| API Global | [https://covid19.mathdro.id/api] |
+| API Countty| [https://covid19.mathdro.id/api/countries/brazil] |
